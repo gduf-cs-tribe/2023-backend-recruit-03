@@ -12,7 +12,7 @@
 
 文档中包含 Java，C/C++，go三个方向的推荐网课，学习资料，发展路径等相关内容
 
-[direction-introduction](https://github.com/gduf-cs-tribe/direction-introduction)
+- [direction-introduction](https://github.com/gduf-cs-tribe/direction-introduction)
 
 ### 考核说明
 
@@ -73,7 +73,7 @@
       1. README.md 中的图片一定要确保可以被访问到，不要出现图片路径是本地路径这种低级错误。建议在仓库中开一个`image`文件夹来放置所有图片。
       2. 请确保你的仓库被设置为 **public**, 以便我们访问你的仓库。（gitee 的仓库默认为 private，记得修改）
 2. 请在第三轮考核截止日期之前，将仓库地址通过邮箱的方式发送给我们。
-   1. 邮箱地址：306031875@qq.com
+   1. 邮箱地址：306031875@qq.com 
    2. 邮箱主题：23爪哇后端第三次考核_专业_姓名_level几，例如：23爪哇后端第三次考核_软工_小刚level1。（请严格按照该方式命名）
    3. 邮箱内容
       1. 你的仓库地址，例如：https://github.com/XXX/XXX / https://gitee.com/XXX/XXX
