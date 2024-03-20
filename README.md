@@ -1,6 +1,6 @@
 # 2023-backend-recruit-03
 后端第三轮考核
-- [方向介绍](方向介绍)
+- [方向介绍](https://github.com/gduf-cs-tribe/2023-backend-recruit-03#方向介绍)
 - [考核说明](https://github.com/gduf-cs-tribe/2023-backend-recruit-03#考核说明)
 - [项目要求](https://github.com/gduf-cs-tribe/2023-backend-recruit-03#项目要求)
 - [提交方式](https://github.com/gduf-cs-tribe/2023-backend-recruit-03#提交方式)
