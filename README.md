@@ -22,7 +22,7 @@
 
   - [23级爪哇后端第二轮考核Level1](https://github.com/gduf-cs-tribe/2023-backend-recruit-02/blob/main/2023-backend-recruit-02-Level1.md)
   - [23级爪哇后端第二轮考核Level2](https://github.com/gduf-cs-tribe/2023-backend-recruit-02/blob/main/2023-backend-recruit-02-Level2.md)
-  - [23级爪哇后端第二轮考核Level3](https://github.com/gduf-cs-tribe/2023-backend-recruit-02/blob/main/2023-backend-recruit-02-Level2.md)
+  - [23级爪哇后端第三轮考核Level3](https://github.com/gduf-cs-tribe/2023-backend-recruit-02/blob/main/2023-backend-recruit-02-Level3.md)
 
 - **Level1**的内容与**第一轮考核**相同：
 
@@ -46,7 +46,7 @@
 
 
 
-1. 使用 git 作为本次项目的版本控制工具，并将**源代码**放到 github/gitee 上面托管，请不要将IDE交上来。
+1. 使用 git 作为本次项目的版本控制工具，并将**源代码**放到 github/gitee 上面托管，请不要将IDE交上来，并且对于每次的commit要做好解释。
    1. 什么是 git ? 请参考下列相关资料，加上自行谷歌。
       1. [Git的介绍以及基本使用 - 掘金](https://juejin.cn/post/7246313318544834615?searchId=2023102323355872C532323C258A9E0350)
       2. [Git到底是什么?](https://www.bilibili.com/read/cv15412717/)
@@ -72,7 +72,7 @@
    3. 注意：
       1. README.md 中的图片一定要确保可以被访问到，不要出现图片路径是本地路径这种低级错误。建议在仓库中开一个`image`文件夹来放置所有图片。
       2. 请确保你的仓库被设置为 **public**, 以便我们访问你的仓库。（gitee 的仓库默认为 private，记得修改）
-2. 请在第二轮考核截止日期之前，将仓库地址通过邮箱的方式发送给我们。
+2. 请在第三轮考核截止日期之前，将仓库地址通过邮箱的方式发送给我们。
    1. 邮箱地址：306031875@qq.com
    2. 邮箱主题：23爪哇后端第三次考核_专业_姓名_level几，例如：23爪哇后端第三次考核_软工_小刚level1。（请严格按照该方式命名）
    3. 邮箱内容
