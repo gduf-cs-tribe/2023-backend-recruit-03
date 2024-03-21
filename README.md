@@ -21,7 +21,7 @@
 - 本次考核根据上一轮的情况，我们这次会把考核分为三个**Level**：
 
   - [23级爪哇后端第三轮考核Level1](https://github.com/gduf-cs-tribe/2023-backend-recruit-03/blob/main/2023-backend-recruit-03-Level1.md)
-  - [23级爪哇后端第三轮考核Level2](https://github.com/gduf-cs-tribe/2023-backend-recruit-03/blob/main/2023-backend-recruit-03-Level1.md)
+  - [23级爪哇后端第三轮考核Level2](https://github.com/gduf-cs-tribe/2023-backend-recruit-03/blob/main/2023-backend-recruit-03-Level2.md)
   - [23级爪哇后端第三轮考核Level3](https://github.com/gduf-cs-tribe/2023-backend-recruit-03/blob/main/2023-backend-recruit-03-Level3.md)
 
 - **Level1**的内容与**第一轮考核**相同：
